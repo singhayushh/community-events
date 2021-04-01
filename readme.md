@@ -16,6 +16,12 @@ Events hosted, can either be domain specific of a mix of multiple domains.
 ├── Community Projects
 ```
 
+<p align="center">
+<a href="#1.1.1-Developer-Summit">Dev Summit</a> | <a href="#1.1.2-Developer-Tech-Fest">Tech Fest</a> | <a href="#1.1.3-Dev-Expo">Dev Expo</a> | <a href="#1.1.4-Hackdays">HackDays</a> | <a href="#1.1.5-Open-Sourcing-Season">Open Source</a> | <a href="#1.1.6-Speaker-Sessions">Speaker Sessions</a> | <a href="#1.1.7-Mini-Projects">Projects</a>
+</p>
+
+----
+
 ### 1.1.1 Developer Summit
 **About**<br/>
 Dev Summit includes panel discussions, workshops, lectures etc mainly focused on the understanding of the changes that technology is bringing to the world, along with its future aspects as well as insights of some emerging technologies. The motive of dev summit, ideally, is to present the real picture of various technologies in the world.
