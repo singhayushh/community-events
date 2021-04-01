@@ -34,6 +34,8 @@ Dev Summit includes panel discussions, workshops, lectures etc mainly focused on
 - Prospects: Inviting our professors, alumni or seniors who have been into various fields of technology, to come up for panel discussions on topics like "How AI will change the world", "Exploring the future of Augmented Reality" etc. Of course, the team needs to discuss and pitch up everything.
 - Suggested Date: Just before Diwali Holidays (Deepotsav) | Odd Semester
 
+----
+
 ### 1.1.2 Developer Tech Fest
 **About**<br/>
 Developer Tech Fest - the festival of events, hosting multiple competitions like Coding marathons, Tech Quiz, Robo Wars, hackathons on AI-Web-App-IoT, Capture-The-Flag or even a mini treasure hunt version of [Cicada 3301](https://en.wikipedia.org/wiki/Cicada_3301)
@@ -46,6 +48,8 @@ Developer Tech Fest - the festival of events, hosting multiple competitions like
 - Prospects: We can collaborate with Robotics Society and KeyGen Group to host events together. Most of the events are virtual so even if Espektro didn't happen due to COVID, we should still hosts these events on a virtual basis.
 - Suggested Date: Even Semester
 
+----
+
 ### 1.1.3 Dev Expo
 **About**<br/>
 Developer Expo is another technical event where students are provided with a platform to showcase and demonstrate their projects, innovativeness and creativity. Projects from distinctive domains like Game Dev, AR-VR-MR, Internet of Things apart from app, web and AI will help inculcating interests in these domains among students.
@@ -57,6 +61,8 @@ Developer Expo is another technical event where students are provided with a pla
 - Code Name: Dev Expo / Project Expo
 - Prospects: This can again be a collaborative event with other college groups. Students who are towards research can also be invited to this event. When it comes to inspiring students to get into development, this event is one of the most effective ones.
 - Suggested Date: Beginning of Odd Semester
+
+----
 
 ### 1.1.4 Hackdays
 **About**<br/>
@@ -76,6 +82,8 @@ Hackdays are 1 or 2 days long Hackathons. Hackathons can be of many types - algo
     - Sunday:               Announcements and Prize Distribution
 - Suggested Date: Around Christmas
 
+----
+
 ### 1.1.5 Open Sourcing Season
 **About**<br/>
 The college-level edition of Google Summer of Code, focused on inspiring more student developers into open source software development.
@@ -88,20 +96,48 @@ The college-level edition of Google Summer of Code, focused on inspiring more st
 - Prospects: DSC KGEC should host atleast 6-7 projects from various domains, from our partner clubs and seniors wherein, there must be multiple issues (feature requests, bugs etc) of various levels of difficulties for the participants to solve and contribute to. We shouldn't have any rewards or leaderboards as it promotes bad open source behaviour.
 - Suggested Date: May - June
 
+----
+
 ### 1.1.6 Speaker Sessions
 **About**<br/>
+Speaker Sessions of Info Sessions are events where speakers are invited to share knowledge about some particular field or topic, featuring informative talks and Q&A sessions.
+
 **Duration**<br/>
+1-2 hours
+
 **DSC KGEC**<br/>
+- Code Name: Info Session
+- Prospects: We have had a lot of info sessions in our past session, having at least 1 session per 15 days. I'd suggest that we should move our focus more towards project related activities this year and have speaker sessions before starting any projects or events. This way, members will be able to learn as well as implement the learning when they participate in building the project. This system will also encourage more students to participate and try out the topic which we had the session on.
+- Suggested Date: Before any project or activity. Say we are going to host a community project that'll use Firebase. So it'd be ideal to have a speaker session on Firebase right before we start off with the project.
+
+----
 
 ### 1.1.7 Mini Projects
 **About**<br/>
+Mini Projects are more inclined to learning short topics. Mini projects can be assigned as tasks, eg: Building a Jekyll based portfolio, or they can be organized after any info sessions.
 **Duration**<br/>
+Less than 10 hours.
+
 **DSC KGEC**<br/>
+- Code Name: --
+- Prospects: Initially, we should organize mini projects for the core team members, so as to improve the bonding and team work.
+- Suggested Date: 1 mini project per month
+
+----
 
 ### 1.1.8 Community Projects
 **About**<br/>
+Community Projects are large scaled project built to inspire the community and encourage students to learn new technologies in a low-risk, hands-on environment. The aim of community projects is not just to bring value to the community but also to build something valuable and helpful for others.
+
 **Duration**<br/>
+~variable. Ideal duration is 21 days.
+
 **DSC KGEC**<br/>
+- Code Name: --
+- Prospects: We should create and maintain a repository of project ideas. We can also include projects that are built in a jiffy in hackathons and extend them to community projects. Since we have 5 teams for different domains of tech, a project from each domain will be ideal for a session!
+- Suggested Date: Mid session
+
+----
 
 ## 1.2 DSC Specific Events
 There are some events that are hosted by Google itself and conducted through DSCs
