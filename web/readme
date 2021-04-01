@@ -1,0 +1,8 @@
+Built using saber and the vuepress theme - askcreative/saber-theme-vuepress
+
+To run:
+- Clone the repo
+- cd web
+- yarn install or npm install
+- yarn dev or npm run dev
+- navigate to localhost:3000 in your browser
