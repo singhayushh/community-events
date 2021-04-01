@@ -17,7 +17,7 @@ Events hosted, can either be domain specific of a mix of multiple domains.
 ```
 
 <p align="center">
-<a href="#1.1.1-Developer-Summit">Dev Summit</a> | <a href="#1.1.2-Developer-Tech-Fest">Tech Fest</a> | <a href="#1.1.3-Dev-Expo">Dev Expo</a> | <a href="#1.1.4-Hackdays">HackDays</a> | <a href="#1.1.5-Open-Sourcing-Season">Open Source</a> | <a href="#1.1.6-Speaker-Sessions">Speaker Sessions</a> | <a href="#1.1.7-Mini-Projects">Projects</a>
+<a href="#111-developer-summit">Dev Summit</a> | <a href="#112-developer-tech-fest">Tech Fest</a> | <a href="#113-dev-expo">Dev Expo</a> | <a href="#114-hackdays">HackDays</a> | <a href="#115-open-sourcing-season">Open Source</a> | <a href="#116-speaker-sessions">Speaker Sessions</a> | <a href="#117-mini-projects">Projects</a>
 </p>
 
 ----
