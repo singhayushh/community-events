@@ -115,6 +115,7 @@ Speaker Sessions of Info Sessions are events where speakers are invited to share
 ### 1.1.7 Mini Projects
 **About**<br/>
 Mini Projects are more inclined to learning short topics. Mini projects can be assigned as tasks, eg: Building a Jekyll based portfolio, or they can be organized after any info sessions.
+
 **Duration**<br/>
 Less than 10 hours.
 
